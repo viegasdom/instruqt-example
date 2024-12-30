@@ -10,6 +10,8 @@ notes:
     You're about to create an EC2 instance using AWS CLI.
 
     Please wait while we provision the AWS account.
+
+    Once we are done you should be able to create the instance!
 tabs:
 - id: 1fiidwz3api4
   title: Cloud CLI
